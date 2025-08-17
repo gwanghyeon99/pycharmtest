@@ -20,6 +20,7 @@ greeting("영희")
 #result = add_numbers(4, 9)
 #print(result)
 
+#-----------------------------
 def add_numbers(num1, num2):
     result = num1 +num2
     print(f'두 수의 합은 {result}입니다.')
