@@ -7,5 +7,4 @@ while True:
         break
 
 
-
 print('end')
