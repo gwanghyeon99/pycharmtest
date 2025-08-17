@@ -42,3 +42,4 @@ print(type(student_scores))
 colors={'red','red','blue','green','blue','yellow','black'}
 print(colors)
 print(type(colors))
+
